@@ -3,3 +3,4 @@
 1. latch-demo
 2. semaphore-demo
 3. barrier-demo
+4. cache-demo

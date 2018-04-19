@@ -13,6 +13,7 @@
         <module>latch-demo</module>
         <module>semahore-demo</module>
         <module>barrier-demo</module>
+        <module>cache-demo</module>
     </modules>
 
     <properties>
